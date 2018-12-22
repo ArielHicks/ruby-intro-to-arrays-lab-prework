@@ -11,7 +11,7 @@ def first_element(array)
 end
 
 def third_element(array)
-  array.gets(3)
+  array.index[3]
 end
 
 def last_element(array)
